@@ -1,0 +1,18 @@
+3) Trigger vérifiant que chaque utilisateur possède un mot de passe ainsi que la puissance de son véhicule
+5) Titre pour chaque fiche de remboursement, modification de la base de données en conséquence
+6) Syntaxe des mots de passe, voir expressions régulières & voir PDF
+8) Ajout de la possibilité d'upload les justificatifs
+9) Le nouveau mot de passe devra avoir une longueur minimum de 8 caractères et contenir au moins une majuscule, une minuscule, un chiffre et un caractère spécial parmi les caractères suivants : ? ! ' $ . % ; : @ & * / \ (Todo n° 6)
+10) Mise en place de l'envoi du mail à la première connexion
+11) Blocage de l'accès au site selon l'état du MDP ainsi que du compte
+12) Mise en place de la partie comptable 
+13) Todo n°2 à répliquer pour la partie hors-forfait
+14) Trigger vérifiant la date de péremption du mot de passe (1an) modification de la BDD en conséquence
+
+
+Done soon - 4) Implémenter la valeur des nuitées ainsi que des repas dans la base de données
+
+
+Done - 1) Changer l'emplacement des intitulés dans les formulaires (ajout fiche, modification fiche)
+Done -2) Script ajax calculant le montant à côté de chaque champ
+Done - 7) Calcul du champ montant automatiquement
